@@ -1,4 +1,12 @@
 [
+        {
+        "url": "https://raw.githubusercontent.com/OCNYang/QBox/master/apk/QBox.apk",
+        "versionCode": 1,
+        "versionName": "1.1.0",
+        "updateMessage": "1. some details of the changes;<br/>2. Better layout;<br/>3. Design more reasonable;",
+        "dateTime": "2017年7月20日",
+        "author": "OCNYang"
+    },
     {
         "url": "https://raw.githubusercontent.com/OCNYang/QBox/master/apk/QBox.apk",
         "versionCode": 1,
