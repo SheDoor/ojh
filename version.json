@@ -1,6 +1,14 @@
 [
   {
     "url": "https://raw.githubusercontent.com/SheDoor/ojh/master/apk/ojh.apk",
+    "versionCode": 7,
+    "versionName": "1.2.3",
+    "updateMessage": "1. some details of the changes;<br/>2. Better layout;<br/>3. Design more reasonable;",
+    "dateTime": "2017年7月25日",
+    "author": "OCNYang"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/SheDoor/ojh/master/apk/ojh.apk",
     "versionCode": 6,
     "versionName": "1.2.2",
     "updateMessage": "1. some details of the changes;<br/>2. Better layout;<br/>3. Design more reasonable;",
