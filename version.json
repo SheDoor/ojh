@@ -1,6 +1,14 @@
 [
   {
     "url": "https://raw.githubusercontent.com/SheDoor/ojh/master/apk/ojh.apk",
+    "versionCode": 17,
+    "versionName": "1.4.5",
+    "updateMessage": "1. something is better",
+    "dateTime": "2017年9月15日",
+    "author": "OCNYang"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/SheDoor/ojh/master/apk/ojh.apk",
     "versionCode": 10,
     "versionName": "1.3.2",
     "updateMessage": "1. Compatible with android 8.0;<br/>2. Better layout;<br/>3. Font size control;",
