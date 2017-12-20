@@ -1,6 +1,14 @@
 [
   {
     "url": "https://raw.githubusercontent.com/SheDoor/ojh/master/apk/ojh.apk",
+    "versionCode": 27,
+    "versionName": "2.0.2",
+    "updateMessage": "1. Adjust the cutting image function of huawei mobile phone;<br/>2. Release platform protocol standards;<br/>3. some functional;",
+    "dateTime": "2017年12月19日",
+    "author": "OCNYang"
+  },
+  {
+    "url": "https://raw.githubusercontent.com/SheDoor/ojh/master/apk/ojh.apk",
     "versionCode": 22,
     "versionName": "1.7.2",
     "updateMessage": "1. Crop function is more friendly;<br/>2. Release platform protocol standards;<br/>3. some functional;",
